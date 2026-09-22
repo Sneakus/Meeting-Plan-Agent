@@ -1,0 +1,115 @@
+Discovery Call - Halverson Freight Services
+Date: 12 August 2026
+Attendees: Priya Raman (Consultant), Marcus Bell (Head of Operations, Halverson Freight), Dee Okonkwo (Senior Coordinator, Halverson Freight)
+
+[00:00:14] PRIYA: Thanks both for making the time. Before I suggest anything I'd like to just understand how things run today. Marcus, can you walk me through what actually happens when a quote request comes in?
+
+[00:00:31] MARCUS: Sure. So a customer emails us - it nearly always starts as an email - with a lane, a commodity, weight, and hopefully a date. That lands in a shared inbox that four of the coordinators watch.
+
+[00:00:49] PRIYA: Shared inbox, four people. Is it assigned or does whoever sees it first pick it up?
+
+[00:00:55] MARCUS: Whoever sees it first, which is honestly part of the problem. We've had two people quote the same load before.
+
+[00:01:07] DEE: More than twice.
+
+[00:01:09] MARCUS: More than twice. Fine.
+
+[00:01:14] PRIYA: Okay. So a coordinator picks it up. What's the next step?
+
+[00:01:19] DEE: I open our rate sheet, which is a spreadsheet, and I look for the lane. If it's a lane we run regularly it's quick, maybe five minutes. If it isn't, I have to go and find carriers, which means calling round or posting it on the load board and waiting.
+
+[00:01:44] PRIYA: And how long does the waiting part typically take?
+
+[00:01:48] DEE: Could be an hour, could be most of a day. If I post it at four in the afternoon I'm not hearing back till the morning.
+
+[00:02:01] PRIYA: Right. So once you have carrier pricing, what happens then?
+
+[00:02:06] DEE: I put the margin on, and if it's over a certain value I need Marcus or one of the other managers to sign it off before it goes out.
+
+[00:02:17] PRIYA: What's the threshold?
+
+[00:02:19] MARCUS: Anything over about eight thousand. It's not a hard rule, it's more of a convention.
+
+[00:02:28] PRIYA: And how long does sign-off usually add?
+
+[00:02:32] MARCUS: If I'm at my desk, ten minutes. If I'm out at a customer site it can sit until the evening. That's probably the bit that annoys the coordinators most.
+
+[00:02:47] DEE: It is.
+
+[00:02:50] PRIYA: So end to end, from the email landing to the quote going back out - what does that look like on a typical day?
+
+[00:02:58] DEE: A known lane with no sign-off, under an hour. Anything unusual, half a day to a day and a half. The average is probably somewhere around six hours.
+
+[00:03:14] MARCUS: I'd say six to eight. We've never actually measured it properly, that's a gut number.
+
+[00:03:22] PRIYA: That's useful, and worth flagging that it's a gut number. How many of these are you handling?
+
+[00:03:29] MARCUS: Around sixty to seventy quote requests a week. The four coordinators do that alongside everything else - they're also managing live loads, so quoting is maybe half their day.
+
+[00:03:47] PRIYA: Where do you think the bottleneck actually is?
+
+[00:03:51] MARCUS: Honestly? It's the carrier sourcing on the unfamiliar lanes. That's where the hours go. The rate sheet lookup is fine, the margin is fine, the sign-off is annoying but it's minutes not hours most of the time.
+
+[00:04:12] DEE: I'd add the duplication. When two of us pick up the same request that's an hour of someone's day gone for nothing.
+
+[00:04:23] PRIYA: Understood. And is any of this written down anywhere - is there a record of what was quoted and why?
+
+[00:04:31] DEE: The quote itself goes out as an email. The number goes into the spreadsheet. The reasoning doesn't go anywhere.
+
+[00:04:42] MARCUS: Which bites us when a customer comes back three weeks later and asks why we quoted what we quoted.
+
+[00:04:51] PRIYA: Let's talk about what you'd want out of this. If we improved things, what would you actually want to be holding at the end?
+
+[00:05:02] MARCUS: Something the coordinators can act on without re-reading everything. A summary of the request, what we've found, what the recommended number is.
+
+[00:05:16] PRIYA: A document, or something more structured?
+
+[00:05:20] MARCUS: A document is fine to start. I don't want to over-engineer it.
+
+[00:05:27] PRIYA: Does that need to land anywhere afterwards - a CRM, a TMS, anything the rest of the business looks at?
+
+[00:05:36] MARCUS: That's a good question and I don't want to give you a wrong answer. We've got a TMS but I genuinely don't know what it can take in. I'd have to go back to our IT contact.
+
+[00:05:52] PRIYA: No problem, let's leave that open rather than guess at it.
+
+[00:05:58] MARCUS: Yes. Leave it open.
+
+[00:06:03] PRIYA: And who's the audience for that document - just the coordinators, or does it go wider?
+
+[00:06:10] MARCUS: Coordinators primarily. Occasionally I'd look at one.
+
+[00:06:18] PRIYA: Okay. Last area - timing and what good looks like. When would you want something in place?
+
+[00:06:26] MARCUS: Soon. It's been a problem for a while and I'd like to stop talking about it.
+
+[00:06:34] PRIYA: Is there a date driving that? A contract renewal, a peak season, a board commitment?
+
+[00:06:41] MARCUS: Not that I'm aware of. Dee, anything?
+
+[00:06:45] DEE: Not that I know of.
+
+[00:06:48] MARCUS: So no, no hard date. Just soon.
+
+[00:06:54] PRIYA: And if this worked, what would that look like in numbers? What would you want that six-to-eight hours to become?
+
+[00:07:03] MARCUS: A lot faster. I don't want to pluck a figure out of the air, because as I said we've never measured it properly.
+
+[00:07:14] PRIYA: That's fair. Is there anything you'd count as a failure - something where you'd say this hasn't worked?
+
+[00:07:23] MARCUS: If the coordinators stop using it, it hasn't worked. Beyond that I'd need to think about it.
+
+[00:07:33] DEE: If it gets the number wrong and someone sends it out without checking, that's a failure.
+
+[00:07:41] PRIYA: That's a useful one, thank you.
+
+[00:07:46] MARCUS: I should say - budget, I can't commit to anything today. That's a conversation with Fiona.
+
+[00:07:55] PRIYA: Understood, I'll leave that out of scope. Is there anything you think I should have asked and didn't?
+
+[00:08:04] DEE: The seasonality. Q4 is roughly double the volume. Whatever this is, it has to hold up in November.
+
+[00:08:16] PRIYA: That's exactly the kind of thing I'd have missed. Thank you.
+
+[00:08:22] MARCUS: We're at time - I've got another call. Send me something and I'll read it.
+
+[00:08:29] PRIYA: Will do. Thanks both.
